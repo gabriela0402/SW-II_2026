@@ -1,0 +1,15 @@
+{
+    "produto": "Perfume",
+    "preco": 100,
+    "estoque": 20,
+    "0": {
+        "produto": "Teclado",
+        "preco": "100",
+        "estoque": 5
+    },
+    "1": {
+        "produto": "Teclado",
+        "preco": "100",
+        "estoque": 5
+    }
+}
