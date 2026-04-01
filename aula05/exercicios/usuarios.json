@@ -1,0 +1,6 @@
+{"produtos":
+ [
+    {"nome":"Esmalte", "preco":5, "quantidade": 20},
+    {"nome":"Ovo de páscoa", "preco":80, "quantidade": 18},
+    {"nome":"Óculos", "preco":200, "quantidade": 5}]
+}
